@@ -1,5 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://lizorlizerator.github.io 
 languageCode: en-us
+theme = "hugo-theme-terminal"
 params:
   contact:
     email: info@example.org
